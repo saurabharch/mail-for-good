@@ -92,7 +92,7 @@
     "redux": "3.6.0",
     "redux-form": "^6.8.0",
     "redux-localstorage": "^0.4.1",
-    "redux-thunk": "2.2.0",
+    "redux-thunk": "2.3.0",
     "sequelize": "^3.24.3",
     "sequelize-cli": "^4.0.0",
     "shortid": "^2.2.8",
