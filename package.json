@@ -38,10 +38,10 @@
   },
   "homepage": "https://github.com/FreeCodeCamp/nonprofit-email-service#readme",
   "dependencies": {
-    "admin-lte": "^2.3.6",
+    "admin-lte": "^3.0.0",
     "async": "^2.4.1",
     "aws-sdk": "^2.69.0",
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.1",
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.2",
     "bootstrap": "^3.3.7",
